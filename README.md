@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VelHRH
-- 👀 I’m interested in programming, sports and wrestling
-- 🌱 I’m currently learning JavaScript, Java
-- 📫 How to reach me on telegram: @velpwn
+- 👋 Hi, I’m Valentin
+- 👀 I’m interested in programming, music and wrestling
+- 🌱 I’m currently learning JavaScript and Java/Scala
+- 📫 How to reach me on telegram: @stars_leader
 
 ### Languages and Tools:
 
