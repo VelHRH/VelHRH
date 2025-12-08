@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Valentin
+- 👋 Hi, I’m Valentyn
 - 👀 I’m interested in programming, music and wrestling
-- 🌱 I’m currently learning JavaScript and Java/Scala
-- 📫 How to reach me on telegram: @stars_leader
+- 🌱 I’m currently learning Functional Programming
+- 📫 How to reach me on Instagram: @velhrh
 
 ### Languages and Tools:
 
