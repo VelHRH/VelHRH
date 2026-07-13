@@ -3,22 +3,27 @@
 - 🌱 I’m currently learning Functional Programming
 - 📫 How to reach me on Instagram/Telegram: @velhrh
 
-### Languages and Tools:
+
+### AI Integration & LLMs experience:
+- **Frameworks:** LangChain.js, Vercel AI SDK
+- **Infrastructure:** pgvector, OpenAI API, Gemini API
+- **Patterns:** RAG, Semantic Search, Agentic Workflows
+
+
+### Languages and Tools experience:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Effect" width="26px" src="https://github.com/Effect-TS.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Zustand" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+<img align="left" alt="Supabase" width="26px" src="https://github.com/supabase.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-
-### 🧠 AI Integration & LLMs
-- **Frameworks:** LangChain.js, Vercel AI SDK
-- **Infrastructure:** pgvector, OpenAI API, Gemini API
-- **Patterns:** RAG, Semantic Search, Agentic Workflows
