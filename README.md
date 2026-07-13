@@ -18,3 +18,7 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 
+### 🧠 AI Integration & LLMs
+- **Frameworks:** LangChain.js, Vercel AI SDK
+- **Infrastructure:** pgvector, OpenAI API, Gemini API
+- **Patterns:** RAG, Semantic Search, Agentic Workflows
