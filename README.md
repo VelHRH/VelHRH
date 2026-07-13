@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Valentyn
 - 👀 I’m interested in programming, music and wrestling
 - 🌱 I’m currently learning Functional Programming
-- 📫 How to reach me on Instagram: @velhrh
+- 📫 How to reach me on Instagram/Telegram: @velhrh
 
 ### Languages and Tools:
 
